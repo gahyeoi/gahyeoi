@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm currently studying Computer Science in Handong Global University.<br/>
+🎓 I'm currently studying Computer Science at Handong Global University.<br/>
 📫 How to reach me: 22000046@handong.ac.kr or kimgahyeoi@gmail.com 
 
 <!--
