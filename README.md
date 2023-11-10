@@ -1,7 +1,8 @@
-### Hi there 👋
+## ✨ gahyeoi 
+Hello, I'm Gahyeon Kim from South Korea. I'm studying Computer Science at Handong Global University. 
 
-🎓 I'm currently studying Computer Science at Handong Global University.<br/>
-📫 How to reach me: 22000046@handong.ac.kr or kimgahyeoi@gmail.com 
+## 📫 HOW TO REACH ME
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kimgahyeoi@gmail.com): kimgahyeoi@gmail.com
 
 <!--
 **gahyeoi/gahyeoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
