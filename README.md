@@ -10,7 +10,7 @@
 
 ---
 
-## About Me
+## About Me 🫧
 
 I am a master's student who enjoys building things with both **engineering discipline** and **research curiosity**.
 
@@ -19,7 +19,7 @@ I am a master's student who enjoys building things with both **engineering disci
 - Love turning abstract research questions into working prototypes, experiments, and practical tools
 - Currently interested in: `PPG-based BP prediction`, `EEG foundation models`, `EEG analysis`, and `EEG-based robotics`
 
-## What I Do
+## What I Do 🌱
 
 ```text
 Research idea -> prototype -> experiment -> iteration -> meaningful outcome
@@ -29,7 +29,7 @@ Research idea -> prototype -> experiment -> iteration -> meaningful outcome
 - Explore research problems through implementation, analysis, and writing
 - Enjoy signal-driven AI applications, practical deep learning, and thoughtful product details
 
-## Featured Areas
+## Featured Areas ☁️
 
 ### Development
 
@@ -45,7 +45,7 @@ Research idea -> prototype -> experiment -> iteration -> meaningful outcome
 - EEG analysis and representation learning
 - EEG-driven robotics and intelligent interfaces
 
-## Tech Stack
+## Tech Stack ✷
 
 <p>
   <img src="https://img.shields.io/badge/Python-2E4057?style=for-the-badge&logo=python&logoColor=F6C90E" />
@@ -56,7 +56,7 @@ Research idea -> prototype -> experiment -> iteration -> meaningful outcome
   <img src="https://img.shields.io/badge/Research-F4A261?style=for-the-badge&logo=readthedocs&logoColor=ffffff" />
 </p>
 
-## A Few Things I Like
+## A Few Things I Like ♡
 
 - Building soft but rigorous things
 - Papers, prototypes, and reproducible experiments
@@ -64,7 +64,7 @@ Research idea -> prototype -> experiment -> iteration -> meaningful outcome
 - Collaborating across research and engineering
 - Finding signals inside noisy real-world data
 
-## Current Focus
+## Current Focus 🌼
 
 ```yaml
 role: Master's Student
@@ -80,7 +80,7 @@ looking_for:
   - impactful healthcare and human-centered systems
 ```
 
-## Connect
+## Connect ✉️
 - Lab: `https://bcilab.handong.edu/home`
 - LinkedIn: `https://www.linkedin.com/in/gahyeon-kim-7a8937319/`
 - Email: `kimgahyeoi@gmail.com`, `gahyeonkim@handong.ac.kr`
