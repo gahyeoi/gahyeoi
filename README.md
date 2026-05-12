@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Developer, Researcher, and curious builder of thoughtful things
+### Developer, Researcher, and curious builder of biosignal-driven ideas
 
-*M.S. student exploring the space between code, research, and human-centered ideas*
+*M.S. student exploring the space between physiological signals, intelligent systems, and human-centered technology*
 
 </div>
 
@@ -14,10 +14,10 @@
 
 I am a master's student who enjoys building things with both **engineering discipline** and **research curiosity**.
 
-- Interested in `AI`, `HCI`, `NLP`, `data-driven systems`, and research-oriented product development
-- Love turning abstract ideas into usable prototypes
-- Drawn to projects where **technology meets people, design, and questions worth studying**
-- Currently working on: `[your current research topic or lab focus]`
+- Interested in `biosignals`, `AI`, `healthcare intelligence`, and research-oriented system building
+- Especially curious about how physiological data can become meaningful, interpretable, and useful technology
+- Love turning abstract research questions into working prototypes, experiments, and practical tools
+- Currently interested in: `PPG-based BP prediction`, `EEG foundation models`, `EEG analysis`, and `EEG-based robotics`
 
 ## What I Do
 
@@ -27,56 +27,57 @@ Research idea -> prototype -> experiment -> iteration -> meaningful outcome
 
 - Build developer-friendly tools and experimental systems
 - Explore research problems through implementation, analysis, and writing
-- Enjoy clean interfaces, practical ML applications, and thoughtful product details
+- Enjoy signal-driven AI applications, practical deep learning, and thoughtful product details
 
 ## Featured Areas
 
 ### Development
 
-- Full-stack prototyping
-- AI application development
-- Data analysis and experimentation
-- Research tooling and internal utilities
+- Python-based prototyping
+- Deep learning experimentation with PyTorch
+- Data analysis and model evaluation
+- Research tooling and experimental pipelines
 
 ### Research
 
-- Human-centered computing
-- Applied machine learning
-- Language and interaction
-- `[add your specific research keywords]`
+- Physiological signal processing
+- PPG-based blood pressure prediction
+- EEG analysis and representation learning
+- EEG-driven robotics and intelligent interfaces
 
 ## Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-2E4057?style=for-the-badge&logo=python&logoColor=F6C90E" />
-  <img src="https://img.shields.io/badge/JavaScript-CB997E?style=for-the-badge&logo=javascript&logoColor=1F1F1F" />
-  <img src="https://img.shields.io/badge/TypeScript-84A59D?style=for-the-badge&logo=typescript&logoColor=ffffff" />
-  <img src="https://img.shields.io/badge/React-B56576?style=for-the-badge&logo=react&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/PyTorch-6D597A?style=for-the-badge&logo=pytorch&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/NumPy-84A59D?style=for-the-badge&logo=numpy&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Pandas-CB997E?style=for-the-badge&logo=pandas&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Signal_Analysis-B56576?style=for-the-badge&logo=scikitlearn&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/Research-F4A261?style=for-the-badge&logo=readthedocs&logoColor=ffffff" />
 </p>
 
 ## A Few Things I Like
 
 - Building soft but rigorous things
-- Papers, prototypes, and polished details
+- Papers, prototypes, and reproducible experiments
 - Cute visuals with serious ideas underneath
 - Collaborating across research and engineering
+- Finding signals inside noisy real-world data
 
 ## Current Focus
 
 ```yaml
 role: Master's Student
-vibe: developer + researcher
+vibe: researcher + developer
 currently_learning:
-  - [topic 1]
-  - [topic 2]
+  - better representation learning for EEG
+  - robust modeling for physiological signals
 currently_building:
-  - [project or thesis-related system]
+  - models and pipelines for biosignal understanding
 looking_for:
   - collaboration
-  - interesting research questions
-  - impactful products
+  - interesting research questions in EEG and PPG
+  - impactful healthcare and human-centered systems
 ```
 
 ## Connect
@@ -89,6 +90,6 @@ looking_for:
 
 <div align="center">
 
-`code with intention, research with curiosity`
+`code with intention, research with curiosity, build with signals`
 
 </div>
