@@ -81,7 +81,7 @@ looking_for:
 ```
 
 ## Connect
-
+- Lab: `https://bcilab.handong.edu/home`
 - LinkedIn: `https://www.linkedin.com/in/gahyeon-kim-7a8937319/`
 - Email: `kimgahyeoi@gmail.com`, `gahyeonkim@handong.ac.kr`
 
