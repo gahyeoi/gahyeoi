@@ -82,7 +82,7 @@ looking_for:
 
 ## Connect
 
-- Portfolio: `[your portfolio link]`
+- LinkedIn: `https://www.linkedin.com/in/gahyeon-kim-7a8937319/`
 - Email: `kimgahyeoi@gmail.com`, `gahyeonkim@handong.ac.kr`
 
 ---
