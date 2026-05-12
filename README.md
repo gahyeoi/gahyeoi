@@ -83,8 +83,7 @@ looking_for:
 ## Connect
 
 - Portfolio: `[your portfolio link]`
-- Google Scholar / Lab / CV: `[your academic link]`
-- Email: `22000046@handong.ac.kr`
+- Email: `kimgahyeoi@gmail.com`, `gahyeonkim@handong.ac.kr`
 
 ---
 
